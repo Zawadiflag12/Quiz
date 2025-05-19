@@ -7,7 +7,7 @@ This project is a quiz with some back end testing added to it. The testing consi
 ```
 npm i to install the node package models. Then npm run build to build the back end and npm run seed to seed the database. Finally npm run start:dev to run the program. Once the program is running you need to open a second terminal. Once the secoond termainal is open then run npm run cypress. Once in cypress then you can enter e2e testing or component testing. I have also attached a walkthrough video for assistance.
 ```
-[![Watch the video]()](https://photos.google.com/photo/AF1QipO1rf740W8QRCz_FwVyvxfh6CuHZuuFoUbFnbA_)
+[![Watch the video]()](https://photos.app.goo.gl/GnGTXk8gSZxYYiWw7)
 
 
 ## Usage
